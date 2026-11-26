@@ -1,5 +1,7 @@
 # CHEM•INV — Santan Laboratory
 
+🔗 Aplikasi: **https://chem-invstn.github.io**
+
 Sistem inventaris bahan kimia laboratorium: terima & ambil barang (FEFO), stok, PO & reservasi gudang, cek stok fisik (opname), lembar keselamatan (SDS), laporan.
 
 - **Frontend:** HTML/CSS/JS statis di GitHub Pages (repository ini)
